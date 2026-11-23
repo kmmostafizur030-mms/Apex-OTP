@@ -35,7 +35,7 @@ except ImportError:  # পুরোনো PTB
 # =====================================================================
 # ⚙️ BASIC CONFIG  (শুধু এই ৩টা ফাইলে বসাতে হবে — বাকি সব Admin Panel থেকে)
 # =====================================================================
-BOT_TOKEN = "9164268222:AAFVB08ftmp3akBs-Im6xBJtvqQwiHzahqs"      # @BotFather থেকে নতুন টোকেন
+BOT_TOKEN = "9164268222:AAEVbWgxVR4fTs8HswfGqcZMJ3SDOfvcT6E"      # @BotFather থেকে নতুন টোকেন
 OWNER_IDS = [6759409823]                         # আপনার Telegram numeric ID (Owner)
 DB_PATH = "premium_bot.db"
 
